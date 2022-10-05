@@ -1,1 +1,2 @@
-lrwxrwxrwx 1 root root 7 Oct 5 09:18 __ls__
+#!/bin/bash
+ls -la __ls__
