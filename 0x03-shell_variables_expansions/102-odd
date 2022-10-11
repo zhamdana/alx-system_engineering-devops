@@ -1,2 +1,2 @@
 #!/bin/bash
-ls | grep -n . | grep [13579];: | cut -d ":" -f 2-
+ls | grep -n . | grep [13579]: | cut -d ":" -f 2-
